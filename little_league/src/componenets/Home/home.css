@@ -1,0 +1,16 @@
+.LogoBox {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Content {
+  display: flex;
+  flex-direction: row;
+  border: 2pt solid green;
+  padding: 10px;
+}
+.UserData {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
